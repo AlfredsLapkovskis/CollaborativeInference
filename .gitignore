@@ -1,0 +1,10 @@
+.env*
+resources/dnns/*
+tmp/
+tmp_backup/
+__pycache__/
+.pytest_cache/
+config.json
+
+!resources/dnns/.gitkeep
+!experiments/.gitkeep
